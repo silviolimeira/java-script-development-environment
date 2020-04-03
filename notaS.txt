@@ -10,3 +10,8 @@ $ npm install -g nsp
 
 $ nsp check
 
+// Browsersync
+// Didicated IP for sharing work on LAN
+// All interactions remain in sync!
+// Grea for cross-device testing
+
