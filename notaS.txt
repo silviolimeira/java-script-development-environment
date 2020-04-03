@@ -1,0 +1,12 @@
+// Editor Config
+// https://editorconfig.org/
+// https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+
+// Package.json
+https://gist.github.com/coryhouse/29bd1029b623beb4c7f79b748dcba844
+
+// Security
+$ npm install -g nsp
+
+$ nsp check
+
